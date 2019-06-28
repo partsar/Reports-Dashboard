@@ -2,6 +2,7 @@
 A CubeJS Implementation for Data Analytics
 
 To Use:
+----------------------------
 First clone the repository to your local storage
 =============
     `git clone https://github.com/powerfist01/Reports-Dashboard.git`
