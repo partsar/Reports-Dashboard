@@ -16,7 +16,8 @@ And then:
 ----------------------------------
 It will run locally at localhost:4000
 
-[Website](https://cube.dev) • [Docs](https://cube.dev/docs) • [Blog](https://cube.dev/blog) • [Slack](https://cubejs-community.herokuapp.com) • [Twitter](https://twitter.com/thecubejs)
+[Website](https://cube.dev) • [Docs](https://cube.dev/docs) • [Blog](https://cube.dev/blog) 
+
 
 __Cube.js is an open source modular framework to build analytical web applications__. It is primarily used to build internal business intelligence tools or to add customer-facing analytics to an existing application.
 
