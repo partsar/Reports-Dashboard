@@ -1,0 +1,13 @@
+{
+  "name": "Reports-Dashboard",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/cubejs-dev-server"
+  },
+  "dependencies": {
+    "@cubejs-backend/mongobi-driver": "^0.9.14",
+    "@cubejs-backend/server": "^0.9.16",
+    "@cubejs-client/core": "^0.9.12"
+  }
+}
