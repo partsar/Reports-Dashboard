@@ -3,11 +3,17 @@ A CubeJS Implementation for Data Analytics
 
 To Use:
 First clone the repository to your local storage
+=============
     `git clone https://github.com/powerfist01/Reports-Dashboard.git`
+----------------------------------------------------
 Run the command 
+====================================
     `npm install`
+------------------------------------
 And then:
+===========================
     `npm run dev`
+----------------------------------
 It will run locally at localhost:4000
 
 [Website](https://cube.dev) • [Docs](https://cube.dev/docs) • [Blog](https://cube.dev/blog) • [Slack](https://cubejs-community.herokuapp.com) • [Twitter](https://twitter.com/thecubejs)
